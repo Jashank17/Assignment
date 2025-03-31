@@ -1,0 +1,284 @@
+{
+  "organizers": [
+    {
+      "id": "3cffa791-9dba-4934-8d6b-3d8874e01dda",
+      "first_name": "Angie",
+      "last_name": "Denerley",
+      "email": "adenerley0@ca.gov"
+    },
+    {
+      "id": "7c5a36e3-a789-440c-8a41-d2a9467e39b1",
+      "first_name": "Rosene",
+      "last_name": "Speak",
+      "email": "rspeak1@ca.gov"
+    },
+    {
+      "id": "67358de7-d3b6-4ec8-9119-981a13f7639f",
+      "first_name": "Deidre",
+      "last_name": "Brendeke",
+      "email": "dbrendeke2@spiegel.de"
+    },
+    {
+      "id": "341fed54-7160-473b-933a-597bcea2964b",
+      "first_name": "Wandie",
+      "last_name": "Laughton",
+      "email": "wlaughton3@vimeo.com"
+    },
+    {
+      "id": "e1a01e4a-f4d9-4edc-b105-0796f147a1f1",
+      "first_name": "Leif",
+      "last_name": "Lupson",
+      "email": "llupson4@usda.gov"
+    },
+    {
+      "id": "5eca7aa4-8c7c-41ae-ac5f-1ab8eba7c026",
+      "first_name": "Gloriane",
+      "last_name": "McHardy",
+      "email": "gmchardy5@jiathis.com"
+    },
+    {
+      "id": "777337b1-bcb1-4cb5-9d7a-1e9ef802fe64",
+      "first_name": "Shanon",
+      "last_name": "Galsworthy",
+      "email": "sgalsworthy6@ezinearticles.com"
+    },
+    {
+      "id": "42b006ca-d7a1-4e6d-ad46-5dcbf4de0e7d",
+      "first_name": "Andonis",
+      "last_name": "Mingay",
+      "email": "amingay7@cnn.com"
+    },
+    {
+      "id": "2f56c40c-28dc-4e05-9944-377b4f738c1d",
+      "first_name": "Rustin",
+      "last_name": "Weldrick",
+      "email": "rweldrick8@google.nl"
+    },
+    {
+      "id": "a1e19e50-37bd-41f5-8885-1d6bc7f2beb5",
+      "first_name": "Giffard",
+      "last_name": "Lundberg",
+      "email": "glundberg9@latimes.com"
+    }
+  ],
+  "activities": [
+    {
+      "id": "a4e4e4e5-2e2f-4576-b2a1-5474e3bac6df",
+      "attendees": [
+        "kdeavall0@oakley.com",
+        "kkarpushkin0@salon.com",
+        "mmourbey0@discovery.com",
+        "jcastells0@earthlink.net"
+      ],
+      "date": "2023-10-02",
+      "organizer": "adenerley0@ca.gov"
+    },
+    {
+      "id": "f91aa534-ca54-4c78-9662-f4f793c21b67",
+      "attendees": [
+        "mhenighan1@fda.gov",
+        "dtutill1@ovh.net",
+        "lelner1@jalbum.net",
+        "hprattington1@omniture.com"
+      ],
+      "date": "2024-06-06",
+      "organizer": "adenerley0@ca.gov"
+    },
+    {
+      "id": "9c02bc50-94e9-49e4-8334-5db0de74e9c1",
+      "attendees": [
+        "cskalls0@issuu.com",
+        "egabbitus0@theatlantic.com",
+        "sandreazzi0@google.co.uk",
+        "cleel0@shutterfly.com"
+      ],
+      "date": "2024-08-28",
+      "organizer": "llupson4@usda.gov"
+    },
+    {
+      "id": "5fb2f3cd-faa5-4d0d-a82d-130466454f0e",
+      "attendees": [
+        "nbambridge1@salon.com",
+        "tphipson1@friendfeed.com",
+        "jsholl1@bbc.co.uk",
+        "cgonsalvez1@imdb.com"
+      ],
+      "date": "2024-08-18",
+      "organizer": "dbrendeke2@spiegel.de"
+    },
+    {
+      "id": "3b99ee28-22c2-49e7-8a29-7bf73d92153a",
+      "attendees": [
+        "pbesnardeau0@pcworld.com",
+        "estihl0@nifty.com",
+        "rhalloway0@vimeo.com",
+        "cmcduall0@cloudflare.com"
+      ],
+      "date": "2024-08-17",
+      "organizer": "rspeak1@ca.gov"
+    },
+    {
+      "id": "60ac66f2-1e94-4956-83d9-7c4f694801a1",
+      "attendees": [
+        "vgoff1@washington.edu",
+        "fmussilli1@pbs.org",
+        "aloveguard1@msn.com",
+        "gwignall1@msu.edu"
+      ],
+      "date": "2023-12-14",
+      "organizer": "rspeak1@ca.gov"
+    },
+    {
+      "id": "9c391acb-142b-4919-bb65-2c64634d9958",
+      "attendees": [
+        "abraime0@archive.org",
+        "ncaltera0@smh.com.au",
+        "edunphie0@pbs.org",
+        "mkeys0@gravatar.com"
+      ],
+      "date": "2024-02-25",
+      "organizer": "amingay7@cnn.com"
+    },
+    {
+      "id": "c2250dc2-9d97-40b8-868c-2bd44cf91675",
+      "attendees": [
+        "nwaggatt1@4shared.com",
+        "rbourgour1@google.fr",
+        "chentzer1@macromedia.com",
+        "sakred1@fc2.com"
+      ],
+      "date": "2023-12-15",
+      "organizer": "sgalsworthy6@ezinearticles.com"
+    }
+  ],
+  "attendees": [
+    {
+      "email": "kdeavall0@oakley.com",
+      "role": "Decision Maker"
+    },
+    {
+      "email": "kkarpushkin0@salon.com",
+      "role": "Economic Buyer"
+    },
+    {
+      "email": "mmourbey0@discovery.com",
+      "role": "Economic Buyer"
+    },
+    {
+      "email": "jcastells0@earthlink.net",
+      "role": "Champion"
+    },
+    {
+      "email": "mhenighan1@fda.gov",
+      "role": "Economic Buyer"
+    },
+    {
+      "email": "dtutill1@ovh.net",
+      "role": "Decision Maker"
+    },
+    {
+      "email": "lelner1@jalbum.net",
+      "role": "Champion"
+    },
+    {
+      "email": "hprattington1@omniture.com",
+      "role": "Economic Buyer"
+    },
+    {
+      "email": "cskalls0@issuu.com",
+      "role": "Decision Maker"
+    },
+    {
+      "email": "egabbitus0@theatlantic.com",
+      "role": ""
+    },
+    {
+      "email": "sandreazzi0@google.co.uk",
+      "role": ""
+    },
+    {
+      "email": "cleel0@shutterfly.com",
+      "role": ""
+    },
+    {
+      "email": "nbambridge1@salon.com",
+      "role": "Champion"
+    },
+    {
+      "email": "tphipson1@friendfeed.com",
+      "role": "Economic Buyer"
+    },
+    {
+      "email": "jsholl1@bbc.co.uk",
+      "role": ""
+    },
+    {
+      "email": "cgonsalvez1@imdb.com",
+      "role": "Decision Maker"
+    },
+    {
+      "email": "pbesnardeau0@pcworld.com",
+      "role": ""
+    },
+    {
+      "email": "estihl0@nifty.com",
+      "role": "Champion"
+    },
+    {
+      "email": "rhalloway0@vimeo.com",
+      "role": "Decision Maker"
+    },
+    {
+      "email": "cmcduall0@cloudflare.com",
+      "role": "Economic Buyer"
+    },
+    {
+      "email": "vgoff1@washington.edu",
+      "role": ""
+    },
+    {
+      "email": "fmussilli1@pbs.org",
+      "role": "Decision Maker"
+    },
+    {
+      "email": "aloveguard1@msn.com",
+      "role": "Economic Buyer"
+    },
+    {
+      "email": "gwignall1@msu.edu",
+      "role": "Decision Maker"
+    },
+    {
+      "email": "abraime0@archive.org",
+      "role": ""
+    },
+    {
+      "email": "ncaltera0@smh.com.au",
+      "role": "Decision Maker"
+    },
+    {
+      "email": "edunphie0@pbs.org",
+      "role": ""
+    },
+    {
+      "email": "mkeys0@gravatar.com",
+      "role": "Decision Maker"
+    },
+    {
+      "email": "nwaggatt1@4shared.com",
+      "role": "Champion"
+    },
+    {
+      "email": "rbourgour1@google.fr",
+      "role": "Economic Buyer"
+    },
+    {
+      "email": "chentzer1@macromedia.com",
+      "role": "Decision Maker"
+    },
+    {
+      "email": "sakred1@fc2.com",
+      "role": "Economic Buyer"
+    }
+  ]
+}
